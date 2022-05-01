@@ -44,7 +44,7 @@ else
 {
    Console.WriteLine("The number is not even"); 
 }
-*/
+
 
 // Задача 4. Напишите программу, которая на вход принимает число N, а на выходе показывает все четные числа от 1 до N
 
@@ -59,4 +59,9 @@ if (current % 2 == 0)
  Console.WriteLine(current + " ");
  current++;
 }
+else
+{
+    current++;
 }
+}
+*/
